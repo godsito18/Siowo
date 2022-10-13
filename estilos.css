@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	font-family: cursive;
+	padding: 2%;
+	font-size: 50px;
+}
+
+body{
+	background: url(corazones.ico);
